@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fosicata1996.fositheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fosicata1996.fositheme.MyBundle
 
 class MyApplicationService {
 
